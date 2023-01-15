@@ -15,6 +15,3 @@ brain-games:
 
 make lint:
 	poetry run flake8 brain_games
-
-reinstall:
-	  python3 -m pip install —attrolo —force-reinstall dust/*.whl
