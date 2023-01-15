@@ -1,14 +1,10 @@
 #!/usr/bin/env python3
-from brain_games.cli import welcome_user
-
-
-def greet():
-    print('Welcome to the Brain Games!')
-
+# Тут должен быть импорт логики игры!!!!
+from brain_games.game import even_game
+import brain_games.engine
 
 def main():
-    greet()
-    welcome_user()
+    brain_games.engine.main(game_even)
 
 
 if __name__ == '__main__':
