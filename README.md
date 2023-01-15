@@ -4,5 +4,5 @@
 Maintainability:
 <a href="https://codeclimate.com/github/Attrolo/python-project-49/maintainability"><img src="https://api.codeclimate.com/v1/badges/fc133d20c74431d60023/maintainability" /></a>
 
-Asciinema:
+Пример работы игры "Проверка на четность":
 https://asciinema.org/a/bWxAmTHcTMoNM2KdLGbEDTkAz
