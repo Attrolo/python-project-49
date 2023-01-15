@@ -22,4 +22,4 @@ def main(game):
             break
         else:
             print('Correct!')
-            count += 1
+            counter += 1
