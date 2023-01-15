@@ -1,5 +1,7 @@
 import prompt
 
+from brain_games.game.even_game import get_game_data
+
 
 ROUNDS = 3
 
@@ -9,10 +11,9 @@ def main(game):
     name = prompt.string('May I have your name? ')
     print(f'Hello, {name}!')
     print('Answer "yes" if the number is even, otherwise answer "no".')
-    print(announcement)
     count = 0
     while count < ROUNDS:
-        question, correct_answer = game.get_game_data()
+        question, correct_answer = get_game_data()
         print(f'Question: {question}')
         answer = prompt.string('Your answer: ')
         if answer != str(correct_answer):
