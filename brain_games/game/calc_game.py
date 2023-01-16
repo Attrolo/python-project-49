@@ -1,4 +1,3 @@
-import prompt
 from random import randint
 from random import choice
 

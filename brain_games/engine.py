@@ -1,7 +1,5 @@
 import prompt
 
-from brain_games.game.even_game import get_game_data
-
 
 GAME_ROUND = 3
 
