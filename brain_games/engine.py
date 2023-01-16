@@ -8,7 +8,9 @@ def main(game):
     print('Welcome to the Brain Games!')
     name = prompt.string('May I have your name? ')
     print(f'Hello, {name}!')
-    print('Answer "yes" if the number is even, otherwise answer "no".')     #Заменить чтобы сообщение соответствовало логике каждой игры
+    #print('Answer "yes" if the number is even, otherwise answer "no".')     #Заменить чтобы сообщение соответствовало логике каждой игры
+    message_game = game.MESSAGE_GAME
+    print(message_game)
     counter = 0
     while counter < GAME_ROUND:
         question, correct_answer = get_game_data()
