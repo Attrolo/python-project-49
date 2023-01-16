@@ -15,3 +15,6 @@ brain-games:
 
 make lint:
 	poetry run flake8 brain_games
+
+reinstall:
+	python3 -m pip install —user —force-reinstall dust/*.whl
