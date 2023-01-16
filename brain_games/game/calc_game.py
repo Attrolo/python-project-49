@@ -18,7 +18,7 @@ def get_game_calc():
     action = ('+', '-', '*')
     num1 = randint(1, 10)
     num2 = randint(1, 10)
-    actions = choice(actions)
+    action = choice(action)
     answer = calc(num1, num2, action)
     question = f'{num1}{action}{num2}'
     return question, answer
