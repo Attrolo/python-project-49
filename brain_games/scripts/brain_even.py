@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-# Тут должен быть импорт логики игры!!!!
 from brain_games.game import even_game
 import brain_games.engine
 
