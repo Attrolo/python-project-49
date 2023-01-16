@@ -15,10 +15,10 @@ def calc(num1, num2, action):
 
 
 def get_game_calc():
-    actions = ('+', '-', '*')
+    action = ('+', '-', '*')
     num1 = randint(1, 10)
     num2 = randint(1, 10)
     actions = choice(actions)
     answer = calc(num1, num2, action)
-    question = f'{num1}{actions}{num2}'
+    question = f'{num1}{action}{num2}'
     return question, answer
