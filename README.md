@@ -5,4 +5,4 @@ Maintainability:
 <a href="https://codeclimate.com/github/Attrolo/python-project-49/maintainability"><img src="https://api.codeclimate.com/v1/badges/fc133d20c74431d60023/maintainability" /></a>
 
 Пример работы игры "Проверка на четность":
-https://asciinema.org/a/bWxAmTHcTMoNM2KdLGbEDTkAz
+<a href="https://asciinema.org/a/pJtXpdXJyjLt8njKtmaClFGVy" target="_blank"><img src="https://asciinema.org/a/pJtXpdXJyjLt8njKtmaClFGVy.svg" /></a>
