@@ -16,7 +16,7 @@ def calc(num1, num2, action):
         return 'please choose another action: "+, - or *"'
 
 
-def get_game_calc():
+def get_game():
     action = ('+', '-', '*')
     num1 = randint(1, 10)
     num2 = randint(1, 10)

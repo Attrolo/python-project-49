@@ -1,5 +1,5 @@
 import prompt
-from brain_games.game import even_game
+
 
 GAME_ROUND = 3
 
@@ -13,7 +13,7 @@ def main(game):
     print(message_game)
     counter = 0
     while counter < GAME_ROUND:
-        question, correct_answer = even_game.get_game_data()
+        question, correct_answer = game.get_game()
         print(f'Question: {question}')
         answer = prompt.string('Your answer: ')
         if answer != str(correct_answer):
