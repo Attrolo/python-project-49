@@ -14,7 +14,7 @@ def main(game):
     print(message_game)
     counter = 0
     while counter < GAME_ROUND:
-        question, correct_answer = game.get_game()          # ошибка ссылался только на brain-even
+        question, correct_answer = game.get_game()
         print(f'Question: {question}')
         answer = prompt.string('Your answer: ')
         if answer != str(correct_answer):
