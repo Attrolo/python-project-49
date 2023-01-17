@@ -1,7 +1,9 @@
 from random import randint
 from random import choice
 
+
 MESSAGE_GAME = 'What is the result of the expression?'
+
 
 def calc(num1, num2, action):
     if action == '+':
