@@ -6,3 +6,6 @@ Maintainability:
 
 Пример работы игры "Проверка на четность":
 <a href="https://asciinema.org/a/pJtXpdXJyjLt8njKtmaClFGVy" target="_blank"><img src="https://asciinema.org/a/pJtXpdXJyjLt8njKtmaClFGVy.svg" /></a>
+
+Пример работы игры "Калькулятор":
+<a href="https://asciinema.org/a/EQlCoRRwJzIBnwBkf7K3CCHew" target="_blank"><img src="https://asciinema.org/a/EQlCoRRwJzIBnwBkf7K3CCHew.svg" /></a>
