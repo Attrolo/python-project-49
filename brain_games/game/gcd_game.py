@@ -17,6 +17,6 @@ def get_gcd(num1, num2):
 def get_game():
     num1 = randint(1, 10)
     num2 = randint(1, 10)
-    result = get_nod(num1, num2)
+    result = get_gcd(num1, num2)
     question = f"question: {num1} {num2}"
     return question, result
