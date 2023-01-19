@@ -9,3 +9,6 @@ Maintainability:
 
 Пример работы игры "Калькулятор":
 <a href="https://asciinema.org/a/EQlCoRRwJzIBnwBkf7K3CCHew" target="_blank"><img src="https://asciinema.org/a/EQlCoRRwJzIBnwBkf7K3CCHew.svg" /></a>
+
+Пример работы игры "Наибольший общий делитель (НОД)":
+<a href="https://asciinema.org/a/wOqDdajF2v7GT9hcrd305KDM0" target="_blank"><img src="https://asciinema.org/a/wOqDdajF2v7GT9hcrd305KDM0.svg" /></a>
