@@ -24,5 +24,5 @@ def get_game():
     correct_answer = choice(question)
     index = question.index(correct_answer)
     question[index] = '..'
-    question = ' '.join(str(element) for element in question)
+    question = ' '.join(str(first_number) for first_number in question)
     return question, correct_answer
