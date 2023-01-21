@@ -12,3 +12,6 @@ Maintainability:
 
 Пример работы игры "Наибольший общий делитель (НОД)":
 <a href="https://asciinema.org/a/wOqDdajF2v7GT9hcrd305KDM0" target="_blank"><img src="https://asciinema.org/a/wOqDdajF2v7GT9hcrd305KDM0.svg" /></a>
+
+Пример работы игры "Арифметическая прогрессия":
+<a href="https://asciinema.org/a/AcN8PhKVaTJfDy9ibgh5ph0l1" target="_blank"><img src="https://asciinema.org/a/AcN8PhKVaTJfDy9ibgh5ph0l1.svg" /></a>
