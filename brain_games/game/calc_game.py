@@ -22,5 +22,5 @@ def get_game():
     num2 = randint(1, 10)
     action = choice(action)
     answer = calc(num1, num2, action)
-    question = f'{num1}{action}{num2}'
+    question = f'{num1} {action} {num2}'
     return question, answer
