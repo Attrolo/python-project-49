@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-from brain_games.game import brain_prime
+from brain_games.game import prime_game
 import brain_games.engine
 
 
