@@ -1,8 +1,9 @@
 [tool.poetry]
 name = "hexlet-code"
 version = "0.1.0"
-description = ""
+description = "5 mini games"
 authors = ["attrolo <yurin-d@mail.ru>"]
+repository = [https://github.com/Attrolo]
 readme = "README.md"
 packages = [
   { include = "brain_games" },
