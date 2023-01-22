@@ -8,10 +8,10 @@ Maintainability:
 <a href="https://asciinema.org/a/pJtXpdXJyjLt8njKtmaClFGVy" target="_blank"><img src="https://asciinema.org/a/pJtXpdXJyjLt8njKtmaClFGVy.svg" /></a>
 
 Пример работы игры "Калькулятор":
-<a href="https://asciinema.org/a/EQlCoRRwJzIBnwBkf7K3CCHew" target="_blank"><img src="https://asciinema.org/a/EQlCoRRwJzIBnwBkf7K3CCHew.svg" /></a>
+<a href="https://asciinema.org/a/Kt2YaFNMVMRQc0B5ODeLUmEuQ" target="_blank"><img src="https://asciinema.org/a/Kt2YaFNMVMRQc0B5ODeLUmEuQ.svg" /></a>
 
 Пример работы игры "Наибольший общий делитель (НОД)":
-<a href="https://asciinema.org/a/wOqDdajF2v7GT9hcrd305KDM0" target="_blank"><img src="https://asciinema.org/a/wOqDdajF2v7GT9hcrd305KDM0.svg" /></a>
+<a href="https://asciinema.org/a/k4kSzehekwGlzqrwVG5sp65O1" target="_blank"><img src="https://asciinema.org/a/k4kSzehekwGlzqrwVG5sp65O1.svg" /></a>
 
 Пример работы игры "Арифметическая прогрессия":
 <a href="https://asciinema.org/a/AcN8PhKVaTJfDy9ibgh5ph0l1" target="_blank"><img src="https://asciinema.org/a/AcN8PhKVaTJfDy9ibgh5ph0l1.svg" /></a>
