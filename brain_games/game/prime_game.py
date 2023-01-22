@@ -10,4 +10,4 @@ def is_prime():
     while question % i == 0:
         i += 1
         correct_answer = i == question and 'yes' or 'no'
-    return question, correct_answer
+        return question, correct_answer
