@@ -4,11 +4,11 @@ from random import randint
 MESSAGE_GAME = 'Answer "yes" if the number is even, otherwise answer "no".'
 
 
-def is_even(number):
-    return number % 2 == 0 and 'yes' or 'no'
+def is_even(NUMBER):
+    return NUMBER % 2 == 0 and 'yes' or 'no'
 
 
 def get_game():
-    question = randint(1, 10)
-    correct_answer = is_even(question)
-    return question, correct_answer
+    QUESTION = randint(1, 10)
+    correct_answer = is_even(QUESTION)
+    return QUESTION, correct_answer
