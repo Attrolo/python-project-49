@@ -18,3 +18,8 @@ make lint:
 
 reinstall:
 	python3 -m pip install --user --force-reinstall dist/*.whl
+
+setup:
+	poetry build
+	poetry publish
+	python3 -m pip install --user dist/*.whl
