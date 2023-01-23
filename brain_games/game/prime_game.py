@@ -17,5 +17,5 @@ def get_game():
         correct_answer = 'yes'
     else:
         correct_answer = 'no'
-    question = f'{NUMBER}'
+    question = NUMBER
     return question, correct_answer
