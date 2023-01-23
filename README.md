@@ -10,6 +10,7 @@ Poetry v1.2.0 или выше
 
 Для установки, необходимо выполнить команды:
 Git clone https://github.com/Attrolo/python-project-49
+
 make setup
 
 
