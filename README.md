@@ -17,8 +17,9 @@ _There are 5 mini games on this page. Brain games._
 ***
 
 __For the correct operation of the games you will need:
-Python v3.6 or higher.
-Poetry v1.2.0 or higher.__
+Python v3.6 or higher.__
+
+__Poetry v1.2.0 or higher.__
 
 ***
 
