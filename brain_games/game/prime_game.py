@@ -4,18 +4,22 @@ from random import randint
 MESSAGE_GAME = 'Answer "yes" if given number is prime. Otherwise answer "no".'
 
 
-def is_prime(NUMBER):
+MIN = 0
+MAX = 50
+
+
+def is_prime(number):
     divider = 2
-    while NUMBER % divider != 0:
+    while number % divider != 0:
         divider += 1
-    return divider == NUMBER
+    return divider == number
 
 
 def get_game():
-    NUMBER = randint(1, 50)
-    if is_prime(NUMBER):
+    number = randint(MIN, MAX)
+    if is_prime(number):
         correct_answer = 'yes'
     else:
         correct_answer = 'no'
-    question = NUMBER
+    question = number
     return question, correct_answer

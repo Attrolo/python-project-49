@@ -4,18 +4,22 @@ from random import randint
 MESSAGE_GAME = 'Find the greatest common divisor of given numbers.'
 
 
-def get_gcd(NUM1, NUM2):
-    while NUM1 != 0 and NUM2 != 0:
-        if NUM1 > NUM2:
-            NUM1 = NUM1 % NUM2
+MIN = 1
+MAX = 10
+
+
+def get_gcd(num1, num2):
+    while num1 != 0 and num2 != 0:
+        if num1 > num2:
+            num1 = num1 % num2
         else:
-            NUM2 = NUM2 % NUM1
-    return (NUM1 + NUM2)
+            num2 = num2 % num1
+    return (num1 + num2)
 
 
 def get_game():
-    NUM1 = randint(1, 10)
-    NUM2 = randint(1, 10)
-    result = get_gcd(NUM1, NUM2)
-    question = f"{NUM1} {NUM2}"
+    num1 = randint(MIN, MAX)
+    num2 = randint(MIN, MAX)
+    result = get_gcd(num1, num2)
+    question = f"{num1} {num2}"
     return question, result
