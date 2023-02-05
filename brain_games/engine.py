@@ -8,7 +8,7 @@ def main(game):
     print('Welcome to the Brain Games!')
     name = prompt.string('May I have your name? ')
     print(f'Hello, {name}!')
-    print(game.MESSAGE_GAME)
+    print(game.RULES)
     counter = 0
     while counter < GAME_ROUND:
         question, correct_answer = game.get_game()

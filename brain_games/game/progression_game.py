@@ -2,7 +2,7 @@ from random import randint
 from random import choice
 
 
-MESSAGE_GAME = 'What number is missing in the progression?'
+RULES = 'What number is missing in the progression?'
 
 
 MIN = 0

@@ -2,7 +2,7 @@ from random import randint
 from random import choice
 
 
-MESSAGE_GAME = 'What is the result of the expression?'
+RULES = 'What is the result of the expression?'
 
 
 MIN = 0
