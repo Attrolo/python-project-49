@@ -9,7 +9,7 @@ MIN = 0
 MAX = 10
 
 
-def calc(num1, num2, action):
+def calculator(num1, num2, action):
     if action == '+':
         return num1 + num2
     elif action == '-':
