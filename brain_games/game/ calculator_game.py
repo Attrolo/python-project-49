@@ -25,6 +25,6 @@ def get_game():
     num1 = randint(MIN, MAX)
     num2 = randint(MIN, MAX)
     action = choice(action)
-    answer = calc(num1, num2, action)
+    answer = calculator(num1, num2, action)
     question = f'{num1} {action} {num2}'
     return question, answer
