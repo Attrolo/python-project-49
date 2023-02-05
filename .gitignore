@@ -5,3 +5,4 @@
 /brain_games/scripts/__pychache__/
 __pycache__*
 *.pyc
+.github/workflows
